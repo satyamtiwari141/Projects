@@ -1,0 +1,32 @@
+Desk Number: 56
+Customer name: Shreya
+Breakfast:Poha
+Salad: Green Salad
+Chinese Dishes: Veg. Fried Rice
+Soup: Veg. Sweet Corn Soup
+Vegetables:Dum Aloo
+Desserts: Gulab Jamun
+
+
+
+Desk Number: 23
+Customer name: Durgesh
+Breakfast:Upma
+Salad: Russian salad
+Chinese Dishes: Veg. Haka Noodles
+Soup: Veg. Soup (Creamy)
+Vegetables:Seasonal Veg.
+Desserts: Choices of Ice-Cream
+
+
+
+Desk Number: 01
+Customer name: Satyam
+Breakfast:Upma
+Salad: Russian salad
+Chinese Dishes: Veg. Haka Noodles
+Soup: Veg. Soup (Creamy)
+Vegetables:Seasonal Veg.
+Desserts: Choices of Ice-Cream
+
+
