@@ -16,6 +16,13 @@ This application aims to streamline the dining experience by providing a digital
 - User-friendly interface
 - Developed using NetBeans
 
+## ScreenShots
+<p align="center">
+  <img src="Output/Screenshot (66).png" alt="Screenshot 1">
+</p>
+<p align="center">
+  <img src="Output/Screenshot (67).png" alt="Screenshots 2">
+</p>
 ## How to Run
 
 1. Clone this repository to your local machine.
